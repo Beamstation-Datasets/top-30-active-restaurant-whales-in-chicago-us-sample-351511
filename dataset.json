@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Whales in Chicago, US",
+  "export_job_id": "fd6d5f95-bbdf-4a1a-82f3-1cdcb4cd732f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 351511,
+  "location_name": "Chicago",
+  "location_type": "city",
+  "repo_name": "top-30-active-restaurant-whales-in-chicago-us-sample-351511",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/351511/beamstation_351511_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 236,
+  "sample_sha256": "29e92a4ee1a431840f1e12ddcafd56d01148ed35310db94e610eda3b52a0e017",
+  "sample_size_bytes": 970668,
+  "total_records": 2368,
+  "updated_at": "2026-04-08T02:19:09.037849+00:00"
+}
