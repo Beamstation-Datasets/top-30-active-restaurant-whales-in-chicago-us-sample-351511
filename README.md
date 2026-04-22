@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Chicago, US
 
-> Free BeamStation sample export with 243 rows and masked direct-contact fields.
+> Free BeamStation sample export with 234 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `351511` |
 | Location | Chicago |
 | Category | Restaurants |
-| Full dataset size | 2,437 records |
-| Free sample size | 243 records (9.97%) |
-| Last export | 2026-04-15T07:38:23.469118+00:00 |
+| Full dataset size | 2,342 records |
+| Free sample size | 234 records (9.99%) |
+| Last export | 2026-04-22T14:05:04.949912+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-chicago-us-sample-351511/releases/download/sample-latest/beamstation_351511_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
