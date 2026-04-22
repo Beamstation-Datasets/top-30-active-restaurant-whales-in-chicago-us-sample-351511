@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0b6794c5-eff7-4762-838e-389bc4d3616a",
+  "export_job_id": "35ebb593-afe1-4164-908f-ff4f23e41bb0",
   "id_short": 351511,
-  "published_at": "2026-04-19T07:21:57Z",
+  "published_at": "2026-04-22T19:36:16Z",
   "repo_name": "top-30-active-restaurant-whales-in-chicago-us-sample-351511",
   "sample_asset_name": "beamstation_351511_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/351511/beamstation_351511_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 243,
-  "sample_sha256": "da54bb8293b8e5952c877f97c8df1a833f657eddb9e000ca3a8638f3b3f70559",
-  "sample_size_bytes": 999579,
-  "total_records": 2437
+  "sample_records": 234,
+  "sample_sha256": "c1b9782856f9bb1855c568bfdad6b5e1fa119aa3ebafab730be128eb71fb7848",
+  "sample_size_bytes": 951997,
+  "total_records": 2342
 }
